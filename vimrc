@@ -594,3 +594,4 @@ EOF
 endif
 let g:session_autoload = 'no'
 let g:vimtex_syntax_conceal_disable = 1
+

@@ -48,3 +48,5 @@ gears.timer({
 		collectgarbage("collect")
 	end,
 })
+
+titlebars_enabled = false;
